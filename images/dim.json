@@ -1,0 +1,75 @@
+{
+  "Granite" : [
+    {
+      "img": "Granite/image1.png",
+      "alts" : "Granite Image 1",
+      "obj":"images/projects/kitchen1/countertops/countertop1.png"
+    },
+    {
+      "img": "Granite/image2.png",
+      "alts" : "Granite Image 2",
+      "obj":"images/projects/kitchen1/countertops/countertop2.png"
+    },
+    {
+      "img": "Granite/image3.png",
+      "alts" : "Granite Image 3",
+      "obj":"images/projects/kitchen1/countertops/countertop3.png"
+    },
+    {
+      "img": "Granite/image4.png",
+      "alts" : "Granite Image 4",
+      "obj":"images/projects/kitchen1/countertops/countertop4.png"
+    },
+    {
+      "img": "Granite/image5.png",
+      "alts" : "Granite Image 5",
+      "obj":"images/projects/kitchen1/countertops/countertop5.png"
+    },
+    {
+      "img": "Granite/image6.png",
+      "alts" : "Granite Image 6",
+      "obj":"images/projects/kitchen1/countertops/countertop6.png"
+    },
+    {
+      "img": "Granite/image7.png",
+      "alts" : "Granite Image 7",
+      "obj":"images/projects/kitchen1/countertops/countertop7.png"
+    }
+  ],
+  "Floor":[
+    {
+      "img": "floor/floor.png",
+      "alts" : "floor Image 1",
+      "obj":"images/projects/kitchen1/floor/floor1.png"
+    },
+    {
+      "img": "floor/floor1.jpg",
+      "alts" : "floor Image 2",
+      "obj":"images/projects/kitchen1/floor/floor2.png"
+    }
+  ],
+  "Backsplash":[
+    {
+      "img": "backplash/image1.png",
+      "alts" : "backspalsh Image 1",
+      "obj":"images/projects/kitchen1/backsplash/backsplash1.png"
+    },
+    {
+      "img": "backplash/image2.png",
+      "alts" : "backspalsh Image 2",
+      "obj":"images/projects/kitchen1/backsplash/backsplash2.png"
+    }
+  ],
+  "Cabinet":[
+      {
+      "img": "Cabinet/image.png",
+      "alts" : "Cabinet Image 1",
+      "obj":"images/projects/kitchen1/cabinet/cabinet1.png"
+    },
+    {
+      "img": "Cabinet/image2.png",
+      "alts" : "Cabinet Image 2",
+      "obj": null
+    }
+  ]
+}
